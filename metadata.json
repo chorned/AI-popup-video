@@ -1,0 +1,5 @@
+{
+  "name": "AI Pop-Up Video",
+  "description": "A nostalgic, interactive web application that overlays AI-generated fun facts onto YouTube music videos using Gemini Pro.",
+  "requestFramePermissions": []
+}

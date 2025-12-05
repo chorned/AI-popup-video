@@ -1,12 +1,14 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img alt="Preview" src="https://github.com/chorned/AI-popup-video/blob/main/.github/previewPopup.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# AI Pop-up Video
 
-This contains everything you need to run your app locally.
+A LLM powered re-creation of VH1's show "Pop-up Video"
 
-View your app in AI Studio: https://ai.studio/apps/drive/1EfsQ7_A2SJsxkqfNNfNScOlyg2bSyIpe
+Built with Google AI Studio
+
+https://www.linkedin.com/in/carlhorned/
 
 ## Run Locally
 
